@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/492a113f-a845-4f63-9c73-f49acc3f2ab6
+**URL**: https://uplift-learning-paths.lovable.app
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/492a113f-a845-4f63-9c73-f49acc3f2ab6) and start prompting.
+Simply visit the [Lovable Project](https://uplift-learning-paths.lovable.app) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
