@@ -1,38 +1,26 @@
-# Welcome to your Lovable project
+# Uplift Learning Paths [🔗](https://uplift-learning-paths.lovable.app)
 
-## Project info
+**Uplift Learning Paths** is an AI-powered learning assistant designed to help users **learn efficiently** and **track their progress**.  
+It features an **interactive AI chatbot** that guides users through personalized learning paths, answers questions in real-time, and helps build consistent study habits.
 
-**URL**: https://uplift-learning-paths.lovable.app
+Whether you're a beginner or upskilling professional, Uplift adapts to your learning goals and keeps you on track.
 
-## How can I edit this code?
 
-There are several ways of editing your application.
+## How to Run the Project Locally
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://uplift-learning-paths.lovable.app) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+Make sure you have **Node.js & npm** installed. You can use [nvm](https://github.com/nvm-sh/nvm#installing-and-updating) for easy installation and version management.
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Step 1: Clone the repository
+git clone https://github.com/mananprj/uplift-learning-paths.git
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Step 2: Navigate to the project directory
+cd uplift-learning-paths
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Step 3: Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Start the development server
 npm run dev
 ```
 
@@ -60,14 +48,6 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+## Deployed Url
 
-Simply open [Lovable](https://lovable.dev/projects/492a113f-a845-4f63-9c73-f49acc3f2ab6) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Simply open [Lovable](https://uplift-learning-paths.lovable.app) to show live site.
